@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\ref\Task47.dll
+C:\Users\nhasa\Desktop\Homework7\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\ref\Task47.dll
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\nhasa\Desktop\Homework7\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
