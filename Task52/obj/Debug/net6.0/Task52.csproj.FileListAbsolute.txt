@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\Task52.exe
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\Task52.deps.json
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\Task52.dll
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\ref\Task52.dll
+C:\Users\nhasa\Desktop\Homework7\Task52\bin\Debug\net6.0\Task52.pdb
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.dll
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\ref\Task52.dll
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.pdb
+C:\Users\nhasa\Desktop\Homework7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
